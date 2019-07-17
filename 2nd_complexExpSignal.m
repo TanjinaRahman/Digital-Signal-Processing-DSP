@@ -2,7 +2,9 @@
 
 theta = pi/100;
 n=0:30;
-r=0.9;
+r=0.3;
+%r = input('Enter r = ');
+%theta = input('Enter theta = ');
 
 Xr = (r.^n).*cos(theta*n);
 Xi = (r.^n).*sin(theta*n);
