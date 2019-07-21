@@ -15,6 +15,10 @@ Matlab
   - Unit Ramp Signal
   - Exponential Signal
   - Complex Exponential Signal
+  - Unit Advance
+  - Unit Delay
+  - Even and Odd Component of a Signal
+  - Fold a signal
 - Problem Solving
   - Ques 1
   - Ques 2
