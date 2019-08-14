@@ -21,6 +21,7 @@ Matlab
   - Fold a signal
   - Frequency Analysis plotting
   - Function of Frequency Analysis Plotting
+  - Convolution Sum
   
 - Problem Solving
   - Ques 1
