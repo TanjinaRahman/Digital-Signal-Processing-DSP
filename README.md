@@ -22,6 +22,7 @@ Matlab
   - Frequency Analysis plotting
   - Function of Frequency Analysis Plotting
   - Convolution Sum
+  - Function of Convolution Sum
   
 - Problem Solving
   - Ques 1
