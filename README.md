@@ -19,6 +19,9 @@ Matlab
   - Unit Delay
   - Even and Odd Component of a Signal
   - Fold a signal
+  - Frequency Analysis plotting
+  - Function of Frequency Analysis Plotting
+  
 - Problem Solving
   - Ques 1
   - Ques 2
