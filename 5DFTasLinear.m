@@ -13,4 +13,6 @@ end
 %nk
 WNnk = WN .^ nk; % DFT matrix
 xn = xn';
-Xk = WNnk*xn 
+Xk = WNnk*xn % DFT as Linear Transform
+
+xn = abs(WNnk.^(-1)*Xk/4) % IDFT as Linear Transform
